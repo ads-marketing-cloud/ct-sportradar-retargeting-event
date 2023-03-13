@@ -1,0 +1,9 @@
+homepage: "https://sportradar.com"
+documentation: "https://raw.githubusercontent.com/ads-marketing-cloud/ct-sportradar-retargeting-event"
+versions:
+ # Latest version
+ - sha: 53582bcd75ad581b1e4594b24eeaffeca5d7bb3b
+   changeNotes: Create initial template.
+ # Older versions
+ - sha: 0971c41db53354201c3d91511ac97d2c5c6a707b
+   changeNotes: Create repository.
